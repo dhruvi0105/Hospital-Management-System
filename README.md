@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Hospital Management System is a desktop application developed using Python's Tkinter library and SQLite for managing hospital appointments. This application allows users to add, update, and delete patient appointments while maintaining a log of all appointments.
+The Hospital Management System is a desktop application developed using Python's Tkinter library and SQLite for managing hospital appointments. This application allows users to add, update, and delete patient appointments while maintaining a log of all appointments. This was a basic application made for just understanding purpose.
 
 ## Features
 
